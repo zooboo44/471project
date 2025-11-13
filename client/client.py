@@ -1,7 +1,7 @@
 import socket
 import os
 
-SERVER_HOST = '127.0.0.1'
+SERVER_HOST = '20.163.11.193'
 SERVER_PORT = 2121
 
 def main():
