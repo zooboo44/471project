@@ -28,3 +28,5 @@ put
 `put <filename>` will upload the file from the client to the server
 quit
 `quit` will quit the client
+shutdown
+`shutdown` will shutdown the server and will disconnect the clients
